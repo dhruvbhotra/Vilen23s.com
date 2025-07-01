@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.singal-1{
+    text-align: right;
+}
+body{
+    background-color: #ffffff;
+    background: linear-gradient(to right, #ffffff, #f0b775);
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+.image-1 img{
+    margin-right: 54rem;
+    margin-top: 3rem;
+}
+.image-1 .text{
+     margin-right: 14rem;
+    margin-left: 37rem;
+    text-align: left;
+    margin-top: -15rem;
+}
+button{
+    border-radius: 2rem;
+    margin-right: 38rem;
+    margin-top: 2rem;
+    width: 6rem;
+    height: 3rem;
+    background: gold;
+}
+button:hover{
+    cursor: pointer;
+}
+.image-1 span{
+    margin-left: 35rem;
+    text-align: center;
+    margin-right: 16rem;
+}
